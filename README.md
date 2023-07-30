@@ -1,6 +1,6 @@
 ## Olá, eu sou Gleisson Braga
   Desenvolvedor Front End
-  Graduando em Análise e Desenvolvimento de Sistemas
+  <p>Graduando em Análise e Desenvolvimento de Sistemas</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
