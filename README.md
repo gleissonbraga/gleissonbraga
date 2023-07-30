@@ -6,7 +6,7 @@
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Gleissonbm&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gleissonbm&layout=compact)
 
 ##
 
