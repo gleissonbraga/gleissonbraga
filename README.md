@@ -4,7 +4,7 @@
 
 ##
 
-<a href="https://github.com/Gleissonbm/github-readme-stats">
+<a href="https://github.com/gleissonbraga/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gleissonbraga" />
 </a>
 <a href="https://github.com/Gleissonbm/convoychat">
