@@ -1,5 +1,5 @@
 ## Olá, eu sou Gleisson Braga
-  Desenvolvedor Front End
+  Desenvolvedor FullStack
   <p>Graduando em Análise e Desenvolvimento de Sistemas</p>
 
 ##
