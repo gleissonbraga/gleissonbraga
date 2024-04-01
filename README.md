@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-## Olá, eu sou Gleisson Braga
-  Desenvolvedor Web FullStack
+
+## <h1>Olá, sou Gleisson Braga</h1>
+  <h2>Desenvolvedor Web FullStack</h2>
   <p>Graduando em Análise e Desenvolvimento de Sistemas</p>
   <p>Estudante Full Stack OneBitCode em linguagem Javascript</p>
 
