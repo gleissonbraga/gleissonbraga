@@ -1,6 +1,7 @@
 ## Olá, eu sou Gleisson Braga
   Desenvolvedor Web FullStack
   <p>Graduando em Análise e Desenvolvimento de Sistemas</p>
+  <p>Estudante Full Stack OneBitCode em linguagem Javascript</p>
 
 ##
 
