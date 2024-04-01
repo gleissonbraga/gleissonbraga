@@ -2,7 +2,7 @@
 
 ## <h1>Olá, sou Gleisson Braga</h1>
   <h2>Desenvolvedor Web FullStack</h2>
-  <p>Graduando em Análise e Desenvolvimento de Sistemas</p>
+  <p>Graduando em Análise e Desenvolvimento de Sistemas - 2/6</p>
   <p>Estudante Full Stack OneBitCode em linguagem Javascript</p>
 
 ##
