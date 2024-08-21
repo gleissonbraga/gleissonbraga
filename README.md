@@ -10,7 +10,7 @@
 ## Skills:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js, bootstrap,git,&perline=14" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,bootstrap,git,&perline=14" />
 </div>
   
   ##  Estudando no momento:
