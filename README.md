@@ -10,12 +10,13 @@
 ## Skills:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vuejs,php,laravel,bootstrap,git,&perline=14" />
+  <img src="https://skillicons.dev/icons?i=html,css,js, bootstrap,git,&perline=14" />
 </div>
   
   ##  Estudando no momento:
-  ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117&textColor=0D1117)&nbsp;
-  ![VueJS](https://img.shields.io/badge/-VueJS-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-js-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+  ![Typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+  ![NodeJS](https://img.shields.io/badge/-nodeJS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ##
  
 <div align="center"> 
