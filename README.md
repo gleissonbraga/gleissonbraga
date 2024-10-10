@@ -14,9 +14,8 @@
 </div>
   
   ##  Estudando no momento:
-  ![JavaScript](https://img.shields.io/badge/-js-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-  ![Typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-  ![NodeJS](https://img.shields.io/badge/-nodeJS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+  ![React](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
+
 ##
  
 <div align="center"> 
