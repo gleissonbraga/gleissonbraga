@@ -10,11 +10,11 @@
 ## Skills:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,js,nodejs,postgresql,git,&perline=14" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,js,nodejs,typescript,postgresql,git,&perline=14" />
 </div>
   
   ##  Estudando no momento:
-  ![React](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
+  ![Typescript](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ##
  
