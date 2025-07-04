@@ -10,11 +10,13 @@
 ## Skills:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,java,spring,nodejs,typescript,postgresql,mysql,git,&perline=14" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,dotnet,nodejs,typescript,jest,postgresql,mysql,git,postman,vscode,aws,&perline=14" />
 </div>
   
   ##  Estudando no momento:
-  ![NextJs](https://img.shields.io/badge/--0D1117?style=for-the-badge&logo=nextjs&labelColor=0D1117&textColor=0D1117)&nbsp;
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,visualstudio,&perline=14" />
+</div>
 
 ##
  
